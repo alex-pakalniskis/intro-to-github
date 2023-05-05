@@ -1,4 +1,4 @@
-# Getting Started with GitHub
+# 1. Getting Started
 ## Session Overview
 * Introduction
 * Understanding GitHub
