@@ -1,11 +1,8 @@
-# 2023-05-15
+# Getting Started with GitHub
 ## Session Overview
 * Introduction
 * Understanding GitHub
-* Creating a Repository
-* Collaborating on GitHub
 * Using GitHub as a Non-Developer
-* Best Practices on GitHub
 * Conclusion
 
 ## Introduction
@@ -71,28 +68,11 @@ Pull requests help ensure that changes to code are reviewed and approved by othe
 
 Overall, GitHub pull requests facilitate collaboration by allowing developers to share code, review changes, and work together on code improvements. By using pull requests, developers can work together more effectively and ensure that changes to code are reviewed and approved before they are merged into the main codebase.
 
-
-## Creating a Repository
-- How to create a new repository on GitHub.
-- The different types of repositories and their purposes.
-- The process of adding files to the repository.
-
-## Collaborating on GitHub
-- How to invite collaborators to the repository.
-- How to make changes to the repository and commit them.
-- The process of creating a pull request and merging changes.
-
 ## Using GitHub as a Non-Developer
 - How GitHub can be used for non-code-related projects, such as documentation, presentations, and blog posts.
 - The process of creating a GitHub Pages website.
 - How to use GitHub for managing and tracking issues.
 
-## Best Practices on GitHub
-- The importance of writing descriptive commit messages.
-- The importance of keeping repositories organized and how to use labels and milestones to manage projects.
-- How to handle conflicts and merge changes efficiently.
-
 ## Conclusion
 - Recap of key takeaways from the class.
 - Resources for further learning.
-- Thanks for attending.
