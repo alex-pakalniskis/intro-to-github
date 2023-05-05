@@ -70,9 +70,42 @@ Overall, GitHub pull requests facilitate collaboration by allowing developers to
 
 ## Using GitHub as a Non-Developer
 - How GitHub can be used for non-code-related projects, such as documentation, presentations, and blog posts.
-- The process of creating a GitHub Pages website.
-- How to use GitHub for managing and tracking issues.
+
+### How GitHub can be used for non-code-related projects, such as documentation, presentations, and blog posts.
+Although GitHub is primarily known as a platform for software development, it can also be used for non-code-related projects such as documentation, presentations, and blog posts. Here are some ways in which GitHub can be used for non-code-related projects:
+
+#### Hosting Documentation: 
+GitHub provides a platform for hosting and collaborating on project documentation. By creating a repository, non-developers can easily store and share documentation with their team. GitHub also allows team members to suggest changes and collaborate on the documentation in real-time, which helps ensure that the documentation is accurate and up-to-date.
+
+#### Presentations: 
+GitHub can also be used to host and share presentations. Users can create a repository to store their presentation files, including PowerPoint, Keynote, or PDF files. By using GitHub, they can share their presentations with their team and other stakeholders, collaborate on the presentation content, and track changes made to the presentation.
+
+#### Blog Posts: 
+GitHub can be used to create and manage a blog. Users can create a repository to store their blog content, including Markdown files or HTML files. By using GitHub, they can collaborate with other writers, track changes made to the blog content, and host the blog on GitHub Pages, a free web hosting service provided by GitHub.
+
+#### Project Management: 
+As mentioned earlier, GitHub provides various project management tools, including issue tracking, project boards, and milestones. These tools can be used for non-code-related projects as well. For example, non-developers can use GitHub to manage a project to create a marketing campaign, track progress, and communicate with team members.
+
+In summary, GitHub can be used for non-code-related projects such as documentation, presentations, and blog posts. By using GitHub, non-developers can collaborate with other team members, track changes, and manage projects effectively. Therefore, it is a versatile platform that can be useful for many types of projects.
 
 ## Conclusion
-- Recap of key takeaways from the class.
+- Recap of key takeaways from the session.
 - Resources for further learning.
+
+### Recap of key takeaways from this session.
+- GitHub is a web-based platform that is used for version control and collaborative software development. It allows developers to store and share their code with others, track changes, and collaborate on projects.
+- GitHub is built on top of Git, which is a version control system that allows developers to keep track of changes to their code over time.
+- Learning how to use GitHub is an important step for anyone interested in software development or collaborative project management.
+- GitHub repositories, branches, and commits are important tools used by developers to manage and collaborate on code. Understanding these concepts can help non-developers gain a better understanding of how developers work together and manage code repositories effectively.
+- GitHub uses Git, a popular version control system, to keep track of changes made to code over time. Version control allows developers to track changes, make changes to code in separate branches, and merge changes back into the main codebase.
+- GitHub provides a range of tools to help developers collaborate on projects, including features such as issue tracking, pull requests, and code reviews. These features allow developers to track bugs, propose changes to code, review each other's code, and provide feedback.
+
+### Resources for further learning.
+
+1. [GitHub Learning Lab](https://github.com/apps/github-learning-lab): GitHub's own learning platform offers a variety of courses on how to use Git and GitHub for version control and collaboration. The courses are self-paced and interactive, and cover a range of topics for both beginners and advanced users.
+
+2. [GitHub Docs](https://docs.github.com/en): GitHub Docs is a collection of step-by-step tutorials that cover everything from the basics of Git and GitHub to more advanced topics like workflows and branching strategies. These guides are easy to follow and can help non-developers understand how to use GitHub for collaboration.
+
+3. [GitHub YouTube Channel](https://www.youtube.com/github): GitHub has an official YouTube channel with a variety of videos on Git and GitHub, including tutorials, webinars, and presentations. These videos can be helpful for non-developers who want to learn more about how GitHub works.
+
+I hope these resources help you on your journey to learning more about GitHub!
