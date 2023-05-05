@@ -1,0 +1,7 @@
+title: Intro to GitHub
+github:
+  is_project_page: false
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "light"
+plugins:
+- jekyll-remote-theme
