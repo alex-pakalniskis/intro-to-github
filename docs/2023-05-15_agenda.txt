@@ -1,0 +1,37 @@
+# Agenda
+
+Introduction
+- Greet the class and introduce yourself as the instructor.
+- Give a brief introduction about what GitHub is and its purpose.
+- Explain how GitHub is widely used and why it's important to learn about it.
+- Provide a brief outline of the class.
+
+Understanding GitHub
+- Explain the basic concepts of repositories, branches, and commits.
+- Describe how GitHub is a platform for version control, code sharing, and collaboration.
+- Introduce the concept of pull requests and how they facilitate collaboration.
+
+Creating a Repository
+- Demonstrate how to create a new repository on GitHub.
+- Explain the different types of repositories and their purposes.
+- Walk through the process of adding files to the repository.
+
+Collaborating on GitHub
+- Explain how to invite collaborators to the repository.
+- Describe how to make changes to the repository and commit them.
+- Walk the class through the process of creating a pull request and merging changes.
+
+Using GitHub as a Non-Developer
+- Describe how GitHub can be used for non-code-related projects, such as documentation, presentations, and blog posts.
+- Walk the class through the process of creating a GitHub Pages website.
+- Explain how to use GitHub for managing and tracking issues.
+
+Best Practices on GitHub
+- Explain the importance of writing descriptive commit messages.
+- Discuss the importance of keeping repositories organized and how to use labels and milestones to manage projects.
+- Explain how to handle conflicts and merge changes efficiently.
+
+Conclusion
+- Recap the key takeaways from the class.
+- Provide resources for further learning.
+- Thank the class for attending and encourage them to continue learning about GitHub.
